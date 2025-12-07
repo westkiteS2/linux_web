@@ -1,0 +1,8 @@
+Error occurred prerendering page "/_not-found". Read more: https://nextjs.org/docs/messages/prerender-error
+Error: @clerk/clerk-react: The publishableKey passed to Clerk is invalid. You can get your Publishable key at https://dashboard.clerk.com/last-active?path=api-keys. (key=k_test_ZmFuY3ktZmxhbWluZ28tOTEuY2xlcmsuYWNjb3VudHMuZGV2JA)
+    at ignore-listed frames {
+  digest: '881051053'
+}
+Export encountered an error on /_not-found/page: /_not-found, exiting the build.
+ ⨯ Next.js build worker exited with code: 1 and signal: null
+Error: Command "npm run build" exited with 1
